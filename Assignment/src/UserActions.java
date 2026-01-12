@@ -1,0 +1,14 @@
+//EACH USER SHOULD BE ABLE TO PERFORM THIS 
+
+//ENSURING THE USER AND THE ADMIN USER TO HAVE THESE METHODS
+
+public interface UserActions {
+
+	void printRole(); //PRINTS THE ROLE OF THE USER OR ADMIN 
+	boolean isRunning(); //RETURNS IF THE USER IS LOGGED IN AND ACTIVE
+	void isNotRunning(); //LOGS OUT THE USER 
+	
+}
+
+
+ 
