@@ -1,0 +1,17 @@
+#All my unecessary files or sensative files
+# Compiled files of mine
+bin/
+*.class
+
+# Eclipse settings
+.settings/
+.project
+.classpath
+
+# Logs / temp
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
